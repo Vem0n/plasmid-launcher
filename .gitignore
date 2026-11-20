@@ -1,0 +1,45 @@
+# Local agent instructions and tooling
+AGENTS.md
+AGENTS.override.md
+CLAUDE.md
+.codex/
+.agents/
+.claude/
+
+# Build output and local CMake settings
+/build/
+/build-*/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/CTestTestfile.cmake
+/cmake_install.cmake
+/install_manifest.txt
+/Testing/
+/build.ninja
+/.ninja_deps
+/.ninja_log
+CMakeUserPresets.json
+*.user
+*.user.*
+
+# Generated test captures; published screenshots belong in docs/screenshots/
+/*.png
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.cache/
+__pycache__/
+*.pyc
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log

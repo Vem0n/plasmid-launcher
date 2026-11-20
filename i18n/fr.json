@@ -1,0 +1,131 @@
+{
+  "ApplicationsModel": {
+    "Some application locations could not be monitored.": "Certains emplacements d’applications ne peuvent pas être surveillés."
+  },
+  "ApplicationsView": {
+    "%n applications": {
+      "one": "%n application",
+      "other": "%n applications"
+    },
+    "Best match": "Meilleure correspondance",
+    "Clear applications filter": "Effacer le filtre des applications",
+    "Filter applications…": "Filtrer les applications…",
+    "Finding app files…": "Recherche des fichiers de l’application…",
+    "Gallery view": "Vue en galerie",
+    "List view": "Vue en liste",
+    "Loading applications…": "Chargement des applications…",
+    "Name · A–Z": "Nom · A–Z",
+    "No applications found": "Aucune application trouvée",
+    "No applications match your filter": "Aucune application ne correspond au filtre"
+  },
+  "DownloadsModel": {
+    "Could not save download arrival history.": "Impossible d’enregistrer l’historique des téléchargements.",
+    "Could not watch Downloads for changes.": "Impossible de surveiller le dossier Téléchargements.",
+    "Downloads is unavailable.": "Le dossier Téléchargements est indisponible.",
+    "Folder": "Dossier"
+  },
+  "DownloadsView": {
+    "Checking Downloads…": "Vérification des téléchargements…",
+    "Clear downloads search": "Effacer la recherche des téléchargements",
+    "No downloads match your search": "Aucun téléchargement ne correspond",
+    "Nothing in Downloads yet": "Aucun téléchargement pour le moment",
+    "Search recent downloads…": "Rechercher dans les téléchargements récents…"
+  },
+  "GroupNotifications": {
+    "%1 — new app detected": "%1 — nouvelle application détectée",
+    "Later": "Plus tard",
+    "Never": "Jamais",
+    "Would you like to add %1 to %2?": "Voulez-vous ajouter %1 à %2 ?",
+    "Yes": "Oui"
+  },
+  "GroupSection": {
+    "%n items": {
+      "one": "%n élément",
+      "other": "%n éléments"
+    },
+    "Applications": "Applications",
+    "Browse applications": "Parcourir les applications",
+    "Collapse group": "Réduire le groupe",
+    "Create group": "Créer un groupe",
+    "Delete group": "Supprimer le groupe",
+    "Expand group": "Développer le groupe",
+    "Group name": "Nom du groupe",
+    "New group": "Nouveau groupe",
+    "Rename group": "Renommer le groupe",
+    "Save": "Enregistrer",
+    "Scroll to first groups": "Défiler vers les premiers groupes",
+    "Scroll to last groups": "Défiler vers les derniers groupes",
+    "Show all": "Tout afficher",
+    "Show less": "Afficher moins",
+    "This group is empty.": "Ce groupe est vide."
+  },
+  "Groups": {
+    "%1 added to %2 group": "%1 ajouté au groupe %2",
+    "Cannot read saved groups; changes are disabled.": "Impossible de lire les groupes enregistrés ; les modifications sont désactivées.",
+    "Could not save groups. Check the configuration folder is writable.": "Impossible d’enregistrer les groupes. Vérifiez les droits d’écriture du dossier de configuration.",
+    "Pinned": "Épinglés",
+    "Saved groups are invalid; the original file has been preserved.": "Les groupes enregistrés sont invalides ; le fichier original a été conservé."
+  },
+  "Launcher": {
+    "Application unavailable": "Application indisponible",
+    "Could not start the external application. Check that Dolphin, kstart, kioclient and xdg-open are installed.": "Impossible de lancer l’application externe. Vérifiez que Dolphin, kstart, kioclient et xdg-open sont installés.",
+    "Could not subscribe to Plasmid's global shortcut.": "Impossible de connecter le raccourci global de Plasmid.",
+    "Documents": "Documents",
+    "Downloads is unavailable.": "Le dossier Téléchargements est indisponible.",
+    "Global shortcuts are unavailable. Start Plasmid again to open it.": "Les raccourcis globaux sont indisponibles. Relancez Plasmid pour l’ouvrir.",
+    "Home": "Dossier personnel",
+    "Plasmid has no global shortcut. Assign one in System Settings → Shortcuts.": "Plasmid n’a pas de raccourci global. Définissez-en un dans Configuration du système → Raccourcis.",
+    "Lutris launch cancelled because Plasmid was reopened.": "Lancement de Lutris annulé car Plasmid a été rouvert.",
+    "This Lutris entry is no longer available, or its library cannot be read.": "Cette entrée Lutris n’est plus disponible ou sa bibliothèque est illisible.",
+    "This application is no longer available.": "Cette application n’est plus disponible.",
+    "This folder is unavailable.": "Ce dossier est indisponible.",
+    "This group item is no longer available.": "Cet élément du groupe n’est plus disponible.",
+    "This item is no longer available.": "Cet élément n’est plus disponible.",
+    "This location is no longer available.": "Cet emplacement n’est plus disponible.",
+    "This pinned application is no longer available.": "Cette application épinglée n’est plus disponible.",
+    "This search result changed. Please select it again.": "Ce résultat a changé. Sélectionnez-le à nouveau."
+  },
+  "LauncherPanel": {
+    "Add %1 to %2?": "Ajouter %1 à %2 ?",
+    "Applications": "Applications",
+    "Back to Plasmid": "Retour à Plasmid",
+    "Based on the apps you've added to this group.": "Selon les applications ajoutées à ce groupe.",
+    "Clear search": "Effacer la recherche",
+    "Close Plasmid": "Fermer Plasmid",
+    "Downloads": "Téléchargements",
+    "Later": "Plus tard",
+    "Never": "Jamais",
+    "No hotkey": "Aucun raccourci",
+    "No matches. Try another search.": "Aucun résultat. Essayez une autre recherche.",
+    "Recently downloaded": "Téléchargements récents",
+    "Search apps, files, commands…": "Rechercher applications, fichiers, commandes…",
+    "Searching…": "Recherche…",
+    "Show recently downloaded": "Afficher les téléchargements récents",
+    "Suggestions (%1)": "Suggestions (%1)",
+    "System Notifications": "Notifications système",
+    "Turn off system notifications": "Désactiver les notifications système",
+    "Turn on system notifications": "Activer les notifications système",
+    "Yes": "Oui"
+  },
+  "LutrisLibrary": {
+    "Installed in Lutris": "Installé dans Lutris",
+    "Lutris library support needs the Qt SQLite driver. Applications remain available.": "La bibliothèque Lutris nécessite le pilote Qt SQLite. Les applications restent disponibles.",
+    "Some Lutris library entries could not be read. Applications remain available.": "Certaines entrées de la bibliothèque Lutris sont illisibles. Les applications restent disponibles."
+  },
+  "RevealMenu": {
+    "Add to group": "Ajouter au groupe",
+    "Add to this group": "Ajouter à ce groupe",
+    "Already in this group": "Déjà dans ce groupe",
+    "Pin": "Épingler",
+    "Pinned": "Épinglé",
+    "Remove from group": "Retirer du groupe",
+    "Show in File Explorer": "Afficher dans le gestionnaire de fichiers"
+  },
+  "SearchResults": {
+    "File location": "Emplacement du fichier"
+  },
+  "LegacySettings": {
+    "Could not migrate %1 to %2: %3": "Impossible de migrer %1 vers %2 : %3",
+    "Cannot create the settings directory.": "Impossible de créer le dossier des paramètres."
+  }
+}

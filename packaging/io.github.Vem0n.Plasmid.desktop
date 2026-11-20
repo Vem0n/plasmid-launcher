@@ -1,0 +1,12 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+[Desktop Entry]
+Type=Application
+Name=Plasmid
+Comment=Applications, places and KRunner search
+Exec=plasmid-launcher
+Icon=system-search
+Terminal=false
+Categories=Utility;Qt;KDE;
+StartupNotify=false
+DBusActivatable=false

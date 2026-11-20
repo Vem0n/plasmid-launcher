@@ -1,0 +1,131 @@
+{
+  "ApplicationsModel": {
+    "Some application locations could not be monitored.": "Some application locations could not be monitored."
+  },
+  "ApplicationsView": {
+    "%n applications": {
+      "one": "%n application",
+      "other": "%n applications"
+    },
+    "Best match": "Best match",
+    "Clear applications filter": "Clear applications filter",
+    "Filter applications…": "Filter applications…",
+    "Finding app files…": "Finding app files…",
+    "Gallery view": "Gallery view",
+    "List view": "List view",
+    "Loading applications…": "Loading applications…",
+    "Name · A–Z": "Name · A–Z",
+    "No applications found": "No applications found",
+    "No applications match your filter": "No applications match your filter"
+  },
+  "DownloadsModel": {
+    "Could not save download arrival history.": "Could not save download arrival history.",
+    "Could not watch Downloads for changes.": "Could not watch Downloads for changes.",
+    "Downloads is unavailable.": "Downloads is unavailable.",
+    "Folder": "Folder"
+  },
+  "DownloadsView": {
+    "Checking Downloads…": "Checking Downloads…",
+    "Clear downloads search": "Clear downloads search",
+    "No downloads match your search": "No downloads match your search",
+    "Nothing in Downloads yet": "Nothing in Downloads yet",
+    "Search recent downloads…": "Search recent downloads…"
+  },
+  "GroupNotifications": {
+    "%1 — new app detected": "%1 — new app detected",
+    "Later": "Later",
+    "Never": "Never",
+    "Would you like to add %1 to %2?": "Would you like to add %1 to %2?",
+    "Yes": "Yes"
+  },
+  "GroupSection": {
+    "%n items": {
+      "one": "%n item",
+      "other": "%n items"
+    },
+    "Applications": "Applications",
+    "Browse applications": "Browse applications",
+    "Collapse group": "Collapse group",
+    "Create group": "Create group",
+    "Delete group": "Delete group",
+    "Expand group": "Expand group",
+    "Group name": "Group name",
+    "New group": "New group",
+    "Rename group": "Rename group",
+    "Save": "Save",
+    "Scroll to first groups": "Scroll to first groups",
+    "Scroll to last groups": "Scroll to last groups",
+    "Show all": "Show all",
+    "Show less": "Show less",
+    "This group is empty.": "This group is empty."
+  },
+  "Groups": {
+    "%1 added to %2 group": "%1 added to %2 group",
+    "Cannot read saved groups; changes are disabled.": "Cannot read saved groups; changes are disabled.",
+    "Could not save groups. Check the configuration folder is writable.": "Could not save groups. Check the configuration folder is writable.",
+    "Pinned": "Pinned",
+    "Saved groups are invalid; the original file has been preserved.": "Saved groups are invalid; the original file has been preserved."
+  },
+  "Launcher": {
+    "Application unavailable": "Application unavailable",
+    "Could not start the external application. Check that Dolphin, kstart, kioclient and xdg-open are installed.": "Could not start the external application. Check that Dolphin, kstart, kioclient and xdg-open are installed.",
+    "Could not subscribe to Plasmid's global shortcut.": "Could not subscribe to Plasmid's global shortcut.",
+    "Documents": "Documents",
+    "Downloads is unavailable.": "Downloads is unavailable.",
+    "Global shortcuts are unavailable. Start Plasmid again to open it.": "Global shortcuts are unavailable. Start Plasmid again to open it.",
+    "Home": "Home",
+    "Plasmid has no global shortcut. Assign one in System Settings → Shortcuts.": "Plasmid has no global shortcut. Assign one in System Settings → Shortcuts.",
+    "Lutris launch cancelled because Plasmid was reopened.": "Lutris launch cancelled because Plasmid was reopened.",
+    "This Lutris entry is no longer available, or its library cannot be read.": "This Lutris entry is no longer available, or its library cannot be read.",
+    "This application is no longer available.": "This application is no longer available.",
+    "This folder is unavailable.": "This folder is unavailable.",
+    "This group item is no longer available.": "This group item is no longer available.",
+    "This item is no longer available.": "This item is no longer available.",
+    "This location is no longer available.": "This location is no longer available.",
+    "This pinned application is no longer available.": "This pinned application is no longer available.",
+    "This search result changed. Please select it again.": "This search result changed. Please select it again."
+  },
+  "LauncherPanel": {
+    "Add %1 to %2?": "Add %1 to %2?",
+    "Applications": "Applications",
+    "Back to Plasmid": "Back to Plasmid",
+    "Based on the apps you've added to this group.": "Based on the apps you've added to this group.",
+    "Clear search": "Clear search",
+    "Close Plasmid": "Close Plasmid",
+    "Downloads": "Downloads",
+    "Later": "Later",
+    "Never": "Never",
+    "No hotkey": "No hotkey",
+    "No matches. Try another search.": "No matches. Try another search.",
+    "Recently downloaded": "Recently downloaded",
+    "Search apps, files, commands…": "Search apps, files, commands…",
+    "Searching…": "Searching…",
+    "Show recently downloaded": "Show recently downloaded",
+    "Suggestions (%1)": "Suggestions (%1)",
+    "System Notifications": "System Notifications",
+    "Turn off system notifications": "Turn off system notifications",
+    "Turn on system notifications": "Turn on system notifications",
+    "Yes": "Yes"
+  },
+  "LutrisLibrary": {
+    "Installed in Lutris": "Installed in Lutris",
+    "Lutris library support needs the Qt SQLite driver. Applications remain available.": "Lutris library support needs the Qt SQLite driver. Applications remain available.",
+    "Some Lutris library entries could not be read. Applications remain available.": "Some Lutris library entries could not be read. Applications remain available."
+  },
+  "RevealMenu": {
+    "Add to group": "Add to group",
+    "Add to this group": "Add to this group",
+    "Already in this group": "Already in this group",
+    "Pin": "Pin",
+    "Pinned": "Pinned",
+    "Remove from group": "Remove from group",
+    "Show in File Explorer": "Show in File Explorer"
+  },
+  "SearchResults": {
+    "File location": "File location"
+  },
+  "LegacySettings": {
+    "Could not migrate %1 to %2: %3": "Could not migrate %1 to %2: %3",
+    "Cannot create the settings directory.": "Cannot create the settings directory."
+  }
+}
